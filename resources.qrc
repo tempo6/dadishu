@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>resources/dishu1.jpg</file>
+        <file>resources/dishu2.jpg</file>
+        <file>resources/dishu3.jpg</file>
+    </qresource>
+</RCC>
